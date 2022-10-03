@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+    <string name="empty_edittext">Introduce texto para convertir en QR</string>
+</resources>
